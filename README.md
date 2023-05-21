@@ -22,13 +22,7 @@ The project consists of three main components:
 
 4. Run the `code_generation` script to generate code based on the summary. The generated code will be printed to the console.
 
-## Customization
 
-- Adjust the HTML parsing logic in the web scraping script to extract specific elements or sections of interest from web pages.
-- Experiment with different pre-trained models available in the transformers library for text summarization and code generation.
-- Fine-tune the pre-trained models on specific datasets or tasks for better performance.
-- Customize parameters such as maximum depth, summary length, beam search size, etc., based on your requirements.
-- Explore other NLP techniques or integrate additional functionalities, such as translation, named entity recognition, or sentiment analysis.
 
 ## Contributions
 
